@@ -1,0 +1,33 @@
+_repo: Die-Primadonna-b-Roman_72413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wohlbrück, Olga
+    alias: Wohlbruck, Olga
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '56675'
+    url: http://www.gutenberg.org/2009/agents/56675
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Olga_Wohlbr%C3%BCck
+    - https://de.wikipedia.org/wiki/Olga_Wohlbr%C3%BCck
+description: ''
+gutenberg_issued: '2023-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72413'
+language: de
+pgterms:marc905: 20201011081814wohlbrck
+pgterms:marc906: '1921'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bAugust Scherl G. m. b. H., $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+- GITenberg
+title: 'Die Primadonna : $b Roman'
+url: http://www.gutenberg.org/ebooks/72413
